@@ -11,7 +11,7 @@ git clone https://github.com/Himalagle-exc27/Spam-OTPV4
 
 cd Spam-OTPV4 
 
-python3 spam.py
+python3 main.py
 
 # About 
 This script tools is made by me Himalaglebruhv
